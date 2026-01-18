@@ -44,45 +44,46 @@ A clean and modern <b>Portfolio website</b> built with <b>Next.js</b>, styled us
 ## 📸 Preview
 
 ### 🌐 Landing Page
-[![Landing Page](assets/landing.jpg "Landing Page")](https://attendvvit.vercel.app/)
+![Landing Page](.github/landing.jpg)
 
 ---
 
 ### 🔐 Authentication
-[![Login Page](assets/login.jpg "Login Page")](assets/login.jpg)
+![Login Page](.github/login.jpg)
 
 ---
 
 ### 👩‍🏫 Teacher Dashboard  
 **Teachers can manage classes, generate QR codes, monitor attendance, and export records.**
 
-[![Teacher Dashboard 1](assets/teacherdashboard.jpg)](assets/teacherdashboard1.jpg)
-[![Teacher Dashboard 2](assets/teacherdashboard2.jpg)](assets/teacherdashboard2.jpg)
-[![Teacher Dashboard 3](assets/teacherdashboard3.jpg)](assets/teacherdashboard3.jpg)
-[![Teacher Dashboard 4](assets/teacherdashboard4.jpg)](assets/teacherdashboard4.jpg)
+![Teacher Dashboard](.github/teacherdashboard.jpg)
+![Teacher Dashboard 2](.github/teacherdashboard2.jpg)
+![Teacher Dashboard 3](.github/teacherdashboard3.jpg)
+![Teacher Dashboard 4](.github/teacherdashboard4.jpg)
 
 ---
 
 ### 🎓 Student Dashboard  
 **Students can scan QR codes, verify location, and view their attendance history.**
 
-[![Student Dashboard 1](assets/studentdashboard.jpg)](assets/studentdashboard1.jpg)
-[![Student Dashboard 2](assets/studentdashboard2.jpg)](assets/studentdashboard2.jpg)
+![Student Dashboard](.github/studentdashboard.jpg)
+![Student Dashboard 2](.github/studentdashboard2.jpg)
 
 ---
 
 ### 🏫 Class Management  
 **Teachers can create classes and manage enrolled students.**
 
-[![Create Class](assets/createclass.jpg)](assets/createclass.jpg)
-[![Class View](assets/class.jpg)](assets/class.jpg)
+![Create Class](.github/createclass.jpg)
+![Class View](.github/class.jpg)
 
 ---
 
 ### 📲 QR Code Attendance  
 **Secure QR-based attendance with real-time geolocation validation.**
 
-[![QR Code](assets/qr.jpg)](assets/qr.jpg)
+![QR Code](.github/qr.jpg)
+
 
 
 ## ✨ Features
